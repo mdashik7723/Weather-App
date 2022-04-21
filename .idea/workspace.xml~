@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28cbbcc1-4f43-490a-9862-99972af4831a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2112297434-3402384740-1486977643-1001/$RG9OPM7/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-2112297434-3402384740-1486977643-1001/$RR6DG9C.idea/Recipe App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animation/.idea/Animation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carousel/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carousel/.idea/Carousel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carousel/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Carousel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/Bootstrap 5/.idea/Bootstrap 5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/Login Page/.idea/Login Page.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/New folder/.idea/New folder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/Portfolio/.idea/Portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experiment/Portfolio/profile-bootstrap-master/.idea/profile-bootstrap-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login Page/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login Page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Password Generator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Password Generator/.idea/Password Generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Password Generator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Password Generator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Weather App.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beach-sea-sand-sky-landscape-view-beach-sea-summer-day-beach-space-area-matara-down-south-sri-lanka-beach-sea-sand-206176897.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27bO8awymm30ZJxBWFWUihGKMXV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28cbbcc1-4f43-490a-9862-99972af4831a" name="Changes" comment="" />
+      <created>1649585160879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649585160879</updated>
+      <workItem from="1649585162191" duration="2471000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

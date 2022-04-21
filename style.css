@@ -1,0 +1,61 @@
+html {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: auto;
+}
+
+
+.main {
+    margin-top: 30px;
+    color: white;
+}
+
+h1 {
+    text-shadow: 2px 3px 0px #898999;
+    line-height: 1.2;
+}
+
+
+.location {
+    margin-top: 10px;
+}
+
+.options {
+    margin-top: 1.5rem;
+}
+
+#temp-scale {
+    display: none;
+}
+
+.weather-icons i {
+    font-size: 6rem;
+}
+
+.credits {
+    margin-top: 3rem;
+    font-weight: 200;
+}
+
+.credits {
+    margin-top: 3rem;
+    font-weight: 200;
+}
+
+.credits a {
+    color: white;
+}
+
+.credits a:hover {
+    color: gainsboro;
+    text-decoration: none;
+}
